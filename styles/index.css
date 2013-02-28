@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+.message {
+    color: #000000 !important;
+}
+
+.error {
+    color: #FF0000 !important;
+}
+
+.title {
+    font-weight: bold;
+}
+
+.result {
+    color: #00BB00 !important;
+}
+
+.message {
+    color: #0000FF !important;
+}
